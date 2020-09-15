@@ -1,0 +1,13 @@
+h1 {
+	color: red;
+	border-bottom: solid black;
+}
+h2 {
+	color: blue;
+}
+img {
+	width: 20%;
+}
+ol {
+	list-style: none;
+}

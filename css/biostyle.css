@@ -1,0 +1,19 @@
+h1	{
+	color: darkred;
+	text-align: center;
+	font-weight: bold;
+}
+img {
+	width: 250px;
+	border: 10px solid darkred;
+}
+p {
+	color: white;
+	text-align: center;
+}
+html {
+	background-color: tan;
+	margin-left: 2in;
+	margin-right: 2in;
+	margin-top: .5in; 
+}

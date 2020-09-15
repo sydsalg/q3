@@ -1,0 +1,15 @@
+h1 {
+	color: pink;
+	font-size: 30pt
+}
+li {
+	color: skyblue;
+	font-size: 20pt
+}
+p {
+	color: grey;
+}
+img {
+	width: 300px; 
+	border:10px solid tan;
+}
