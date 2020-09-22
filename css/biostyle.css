@@ -1,19 +1,27 @@
+#wrapper {
+	max-width: 70%;
+	margin: 0 auto;
+	background-color: tan;
+}
 h1	{
 	color: darkred;
 	text-align: center;
 	font-weight: bold;
+	border-bottom: solid darkred;
+}
+h2 {
+	color: darkred;
+	text-align: center;
 }
 img {
 	width: 250px;
 	border: 10px solid darkred;
+	box-shadow: 5px 5px white;
 }
 p {
 	color: white;
 	text-align: center;
 }
-html {
-	background-color: tan;
-	margin-left: 2in;
-	margin-right: 2in;
-	margin-top: .5in; 
+body {
+	background-color: white;
 }

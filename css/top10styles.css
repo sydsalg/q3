@@ -1,6 +1,13 @@
+#wrapper {
+	max-width: 70%;
+	margin: 0 auto;
+	background-color: lightyellow;
+}
 h1 {
 	color: pink;
-	font-size: 30pt
+	font-size: 30pt;
+	text-align: center;
+	border-bottom: 10px solid pink;
 }
 li {
 	color: skyblue;
@@ -12,4 +19,11 @@ p {
 img {
 	width: 300px; 
 	border:10px solid tan;
+}
+ol {
+	padding: 10px;
+	margin: 50px;
+}
+body {
+	background-color: skyblue;
 }

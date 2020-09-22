@@ -1,0 +1,25 @@
+#wrapper {
+	max-width: 70%;
+	margin: 0 auto;
+	background-color: white; 
+}
+h1 {
+	text-align: center;
+	color: red;
+	border-bottom: 5px solid red;
+}
+h2 {
+	text-align: center;
+	color: skyblue;
+}
+p {
+	text-align: center;
+	color: black;
+}
+img {
+	width: 400px;
+	border: 10px solid red;
+}
+body {
+	background-color: skyblue;
+}
