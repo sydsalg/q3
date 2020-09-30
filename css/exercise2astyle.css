@@ -1,0 +1,48 @@
+body {
+	background-color: #195560;
+}
+#wrapper {
+	max-width: 85%;
+	margin: 0 auto;
+	background-color: #2b98ad;
+	padding-top: 10px;
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 64pt;
+}
+h2 {
+	color: white;
+	padding: 5px;
+	background-color: #355a62;
+	margin: 10px;
+}
+img {
+	width: 500px;
+	border: 3px solid #85e6fa;
+	margin: 20px;
+}
+.bcolor {
+	border-color: #e05e43;
+}
+.block {
+	display: block;
+}
+.pups {
+	margin-left: auto;
+	margin-right: auto;
+}
+.rightfloat {
+	float: right;
+}
+p {
+	background-color: #c4e6fb;
+	margin: 10px;
+	padding: 15px;
+}
+.clearfix::after {
+  	content: "";
+  	clear: both;
+  	display: block;
+}

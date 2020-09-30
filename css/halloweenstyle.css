@@ -1,0 +1,44 @@
+#wrapper {
+	max-width: 80%;
+	background-color: black;
+	margin: 0 auto;
+}
+body {
+	border: 3px solid black;
+	background-color: grey;
+}
+section {
+	margin: 20px;
+}
+h1 {
+	background-color: orange;
+	text-align: center;
+	font-size: 60pt;
+}
+h2 {
+	background-color: purple;
+}
+h3 {
+	background-color: white;
+}
+p {
+	background-color: lightgreen;
+	padding: 20px;
+}
+img {
+	width: 400px;
+}
+.rfloat {
+	float: right;
+	border: 20px solid purple;
+}
+.babypunkin {
+	border: 20px solid orange;
+}
+.clearfix:after {
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
