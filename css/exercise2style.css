@@ -1,5 +1,5 @@
 #wrapper {
-	max-width: 70%;
+	max-width: 75%;
 	margin: 0 auto;
 	background-color: grey;
 	padding: 20px;
@@ -19,10 +19,8 @@ h2 {
 	font-size: 15pt;
 	padding: 5px;
 }
-.hehe {
-	background-color: green;
-}
 p {
+	background-color: green;
 	font-size: 9pt;
 	color: black;
 	padding: 10px;
@@ -38,11 +36,9 @@ img {
 }
 .lol {
 	float: right;
-	margin: 10px;
 }
 .dak {
 	float: left;
-	margin: 10px;
 }
 .pic {
 	margin-left: auto;
