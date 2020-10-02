@@ -1,0 +1,20 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+.column {
+	float: left;
+	padding: 10px;
+}
+.lcol {
+	width: 48%;
+}
+.rcol {
+	width: 48%;
+}
+.lcolsmall {
+	width: 24%;
+}
+.rcolbig {
+	width: 72%;
+}
