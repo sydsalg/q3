@@ -39,6 +39,9 @@ a:hover {
 	font-size: 40px;
 	color: white;
 }
+a:visited {
+	color: black;
+}
 .col {
 	float: left;
 	padding: 5px;
