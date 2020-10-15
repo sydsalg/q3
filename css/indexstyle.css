@@ -23,3 +23,9 @@ img {
 body {
 	background-color: skyblue;
 }
+a {
+	display: block;
+}
+.centera {
+	text-align: center; 
+}

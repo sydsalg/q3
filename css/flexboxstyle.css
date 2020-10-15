@@ -1,0 +1,94 @@
+#wrapper {
+	max-width: 90%;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 36pt;
+}
+.flex-container1 {
+	display: flex;
+	background-color: black;
+}
+.box1 {
+	background-color: limegreen;
+	width: 50px;
+	padding: 20px;
+	text-align: center;
+	font-size: 24pt;
+	margin: 20px;
+}
+.box2 {
+	background-color: yellow;
+	width: 50px;
+	padding: 20px;
+	text-align: center;
+	font-size: 24pt;
+	margin: 20px;
+}.box3 {
+	background-color: red;
+	width: 50px;
+	padding: 20px;
+	text-align: center;
+	font-size: 24pt;
+	margin: 20px;
+}
+.flex-container2 {
+	display: flex;
+	background-color: black;
+	flex-flow: row-reverse;
+}
+.flex-container3 {
+	display: flex;
+	background-color: black;
+	flex-direction: column; 
+}
+.flex-container4 {
+	display: flex;
+	background-color: black;
+	justify-content: flex-start; 
+}
+.flex-container5 {
+	display: flex;
+	background-color: black;
+	justify-content: flex-end; 
+}
+.flex-container6 {
+	display: flex;
+	background-color: black;
+	justify-content: center; 
+}
+.flex-container7 {
+	display: flex;
+	background-color: black;
+	justify-content: space-around; 
+}
+.flex-container8 {
+	display: flex;
+	background-color: black;
+	justify-content: space-between; 
+}
+.flex-container9 {
+	display: flex;
+	background-color: black;
+	justify-content: space-evenly; 
+}
+.flex-container10 {
+	display: flex;
+	background-color: black;
+	align-items: flex-start;
+}
+.flex-container11 {
+	display: flex;
+	background-color: black;
+	align-items: center;
+}
+.flex-container12 {
+	display: flex;
+	background-color: black;
+	align-items: stretch;
+}
+.flex-container13 {
+	display: flex;
+	background-color: black;
+	align-items: baseline;
+}
